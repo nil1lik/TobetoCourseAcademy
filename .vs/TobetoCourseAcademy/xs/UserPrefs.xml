@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{E9296BE5-C57A-4616-9538-F89C452CDEF2}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.ConsoleUI PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ConsoleUI/Program.cs">
+    <Files>
+      <File FileName="DataAccessCreate/Concretes/EntityFramework/TobetoCourseContext.cs" />
+      <File FileName="ConsoleUI/Program.cs" Line="18" Column="1" />
+      <File FileName="DataAccessCreate/Concretes/EntityFramework/EfCourseDal.cs" />
+      <File FileName="Entity/DTOs/CourseDetail.cs" />
+      <File FileName="Entity/Concretes/Category.cs" />
+      <File FileName="Entity/Concretes/Course.cs" />
+      <File FileName="Entity/Concretes/Instructor.cs" />
+      <File FileName="Business/Concretes/InstructorManager.cs" />
+      <File FileName="Business/Concretes/CategoryManager.cs" />
+      <File FileName="Business/Concretes/CourseManager.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TobetoCourseAcademy" expanded="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>
